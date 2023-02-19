@@ -6,18 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="lab13" />
-        <module name="lab12" />
-        <module name="lab11" />
-        <module name="controlTest2" />
-        <module name="lab10" />
-        <module name="lab008" />
         <module name="sobranieSochineniy" />
-        <module name="lab09" />
-        <module name="TenTasks" />
-        <module name="Lab007" />
-        <module name="lab15" />
-        <module name="lab14" />
       </profile>
     </annotationProcessing>
   </component>
